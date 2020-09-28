@@ -14,9 +14,8 @@ Experiments demonstrate that PAMnet can produce ghosting-free HDR results in the
 * [Paper, PDF]()
 
 ## Video
-<video id="video" controls="" preload="none" poster="http://yun.nju.edu.cn/d/e91ba5275e/files/?p=/spotlight_cover.png">
-      <source id="mp4" src="http://yun.nju.edu.cn/d/e91ba5275e/files/?p=/0886-spotlight.mp4" type="video/mp4">
-      </video>
+<a href="{http://yun.nju.edu.cn/d/e91ba5275e/files/?p=/0886-spotlight.mp4}" title="Link Title"><img src="{http://yun.nju.edu.cn/d/e91ba5275e/files/?p=/spotlight_cover.png}" alt="Alternate Text" /></a>
+
 
 ## Acknowledgments
 We are grateful for the constructive comments from anonymous reviewers. The corresponding author is Dr. Zhan Ma (mazhan@nju.edu.cn).
