@@ -1,8 +1,8 @@
 # Robust High Dynamic Range (HDR) Imaging with Complex Motion and Parallax</center>
 
-<center>Vision Lab, Nanjing University</center>
+Vision Lab, Nanjing University</center>
 
-<center>Zhiyuan Pu, Peiyao Guo, Salman Asif, and Zhan Ma</center>
+Zhiyuan Pu, Peiyao Guo, Salman Asif, and Zhan Ma</center>
 
 ## Abstract
 High dynamic range (HDR) imaging is widely used in consumer photography, computer game rendering, autonomous driving, and surveillance systems. Reconstructing ghosting-free HDR images of dynamic scenes from a set of multi-exposure images is a challenging task, especially with large object motion, disparity, and occlusions, leading to visible artifacts using existing methods. 
