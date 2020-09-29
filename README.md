@@ -2,7 +2,7 @@
 
 <sup>1</sup>[Vision Lab](https://vision.nju.edu.cn/), Nanjing University
 
-<sup>2</sup>University of California, Riverside, Riverside, CA, USA
+<p align = \"center\">"<sup>2</sup>University of California, Riverside, Riverside, CA, USA"</p>
 
 Zhiyuan Pu<sup>1</sup>, Peiyao Guo<sup>1</sup>, [Salman Asif](https://intra.ece.ucr.edu/~sasif/index.html)<sup>2</sup>, and [Zhan Ma](https://vision.nju.edu.cn/fc/d3/c29470a457939/page.htm)<sup>1</sup>
 
