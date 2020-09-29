@@ -7,7 +7,7 @@
 Zhiyuan Pu<sup>1</sup>, Peiyao Guo<sup>1</sup>, [Salman Asif](https://intra.ece.ucr.edu/~sasif/index.html)<sup>2</sup>, and [Zhan Ma](https://vision.nju.edu.cn/fc/d3/c29470a457939/page.htm)<sup>1</sup>
 
 <center class="half">
-    <img src="images\008Plot.png" width="750"/>
+    <img src="images\008Plot.png" width="800"/>
 </center>
 
 ## Abstract
