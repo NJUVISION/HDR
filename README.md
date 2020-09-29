@@ -15,7 +15,6 @@ High dynamic range (HDR) imaging is widely used in consumer photography, compute
 <img src="./images/PDF.png" height = "25" alt="" /> 
 [Paper, PDF]()(will be updated soon)
 
-## related materials
 <img src="./images/youtube_icon_darkCrop.png" height = "25" alt="" /> 
 [video](http://yun.nju.edu.cn/f/a0f381de8b/?raw=1)
 
