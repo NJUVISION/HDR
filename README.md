@@ -1,6 +1,8 @@
 # Robust High Dynamic Range (HDR) Imaging with Complex Motion and Parallax
 
-[Vision Lab](https://vision.nju.edu.cn/), Nanjing University
+<sup>1</sup>[Vision Lab](https://vision.nju.edu.cn/), Nanjing University
+
+<sup>2</sup>University of California, Riverside, Riverside, CA, USA
 
 Zhiyuan Pu, Peiyao Guo, [Salman Asif](https://intra.ece.ucr.edu/~sasif/index.html), and [Zhan Ma](https://vision.nju.edu.cn/fc/d3/c29470a457939/page.htm)
 
